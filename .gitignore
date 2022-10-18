@@ -6,7 +6,6 @@ typechain
 typechain-types
 deployments
 
-
 #Hardhat files
 cache
 artifacts
