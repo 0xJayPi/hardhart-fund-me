@@ -24,35 +24,6 @@ Checkout the full blockchain course video [here](https://www.youtube.com/watch?v
 git clone https://github.com/PatrickAlphaC/hardhat-fund-me-fcc
 cd hardhat-fund-me-fcc
 yarn
-```
-
-## Typescript
-
-For the typescript edition, run:
-
-```
-git checkout typescript
-```
-
-### Optional Gitpod
-
-If you can't or don't want to run and install locally, you can work with this repo in Gitpod. If you do this, you can skip the `clone this repo` part.
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/PatrickAlphaC/hardhat-fund-me-fcc)
-
-# Usage
-
-Deploy:
-
-```
-yarn hardhat deploy
-```
-
-## Testing
-
-```
-yarn hardhat test
-```
 
 ### Test Coverage
 
